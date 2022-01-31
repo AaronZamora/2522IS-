@@ -1,2 +1,2 @@
 # 2522IS-
-Integrantes: Aaron Zamora // Fabian Granados
+Integrantes: Aaron Zamora // Fernando Galban
